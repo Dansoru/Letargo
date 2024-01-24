@@ -1,2 +1,2 @@
-No se usar esto, pero ya lo entenderemos y usaremos bien
-:P
+Ya se usar esto, en clase os hago tuto
+:]
