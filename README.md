@@ -10,7 +10,7 @@ inconsciencia
 
 kôma
 
-Letargo
+Letargo   ✅
 
 Lethargus
 
