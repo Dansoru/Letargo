@@ -1,12 +1,19 @@
 --------------------------Nombre-------------------------------
 
 Fragmented limbs
+
 Jinglepuff
+
 Limbo
+
 inconsciencia
+
 kôma
+
 Letargo
+
 Lethargus
+
 Sopor 
 
 --------------------------Sensaciones------------------------------
