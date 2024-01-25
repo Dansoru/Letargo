@@ -52,11 +52,10 @@ Al hacer clic en x botón se hace un auto apuntado al enemigo más cercano (REVI
 
 Creación de “portales” 
 
- 
 
- 
+_______________________________________________________________________  
 
-DATOS  
+--- DATOS --- 
 
 -3 niveles (3 fragmentos de foto) 1º foto (no se visualiza nada en concreto) 2º foto (se ve al personaje principal en ella) 3º foto (ve a su hija que es lo que le dan ganas de vivir) 
 
@@ -68,7 +67,7 @@ DATOS
 
  
 
-DESARROLLO 
+--- DESARROLLO ---
 
 -Cuando el juego comienza se ve un fondo blanco y se escucha un estallido, luego apareces en un mundo de wireframe (alambre) en el interior de un toroide, pero con una intersección en uno de los lados. 
 
@@ -102,7 +101,7 @@ Si no se consigue las 3 fotografías no se podrá salir, hasta que lo derroten l
 
  
 
- 
+ _______________________________________________________________________ 
 
 PLAN DE TRABAJO: 
 
@@ -118,7 +117,7 @@ PLAN DE TRABAJO:
 
 20 ENTREGAR 
 
- 
+ _______________________________________________________________________ 
  
 
 TAREAS QUE DESEMPEÑA CADA MIEMBRO DEL EQUIPO: 
