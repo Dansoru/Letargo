@@ -7,7 +7,10 @@ inconsciencia
 kôma
 Letargo
 Lethargus
-Sopor --------------------------Sensaciones------------------------------
+Sopor 
+
+--------------------------Sensaciones------------------------------
+
 Trsiteza Melancolia Soledad Droga Sueño Frustació Ansiedad Amor
 
 ------------------------- Historia---------------------------------
