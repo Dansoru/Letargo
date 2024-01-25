@@ -65,7 +65,7 @@ _______________________________________________________________________
 
 - Todos los enemigos contaran con un rango en el que si te acercas a él atacará. 
 
- 
+- Cada escenario tiene un color, Granaja (Naranja/Amarillo), Casa (Verde), Hospital (Azul Claro) 
 
 --- DESARROLLO ---
 
