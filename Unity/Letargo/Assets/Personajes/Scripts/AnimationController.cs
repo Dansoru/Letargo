@@ -24,5 +24,17 @@ public class AnimationController : MonoBehaviour
             // Ejecutar la animación "Rumba Dancing"
             animator.SetTrigger("RumbaDancingTrigger");
         }
+
+      
+        if (Input.GetMouseButtonDown(0)) // 0 representa el botón izquierdo del ratón
+        {
+            // Verificar si se presionó click izquierdo
+            Debug.Log("Se presionó click izquierdo");
+
+            // Ejecutar la animación "punching"
+            animator.SetTrigger("PunchingTrigger");
+        }
     }
 }
+
+
