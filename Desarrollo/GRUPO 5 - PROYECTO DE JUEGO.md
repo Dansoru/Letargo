@@ -57,11 +57,11 @@ _______________________________________________________________________
 
 --- DATOS --- 
 
--3 niveles (3 fragmentos de foto) 1º foto (no se visualiza nada en concreto) 2º foto (se ve al personaje principal en ella) 3º foto (ve a su hija que es lo que le dan ganas de vivir) 
+- 3 niveles (3 fragmentos de foto) 1º foto (no se visualiza nada en concreto) 2º foto (se ve al personaje principal en ella) 3º foto (ve a su hija que es lo que le dan ganas de vivir) 
 
--1 boss final (24 golpes para derrotar) 
+- 1 boss final (24 golpes para derrotar) 
 
--Los pequeños aparecerán continuamente con intervalos de tiempo entre 18s y 33s (3 golpes para derrotar)  
+- Los pequeños aparecerán continuamente con intervalos de tiempo entre 18s y 33s (3 golpes para derrotar)  
 
 - Todos los enemigos contaran con un rango en el que si te acercas a él atacará. 
 
