@@ -52,6 +52,7 @@ Unity:
 		- Importar GUI
 		- Programar GUI para cada escenario y tutorial inicial
 
+_______________________________________________________________________  
 
 ---- Nombre ----
 
