@@ -1,14 +1,16 @@
 
 Diseño:
-	- Terminar la casa
-	- Terminar la granja
-	- Enemigos
-		· Animacion enemigos
+	- Enemigos ✅
+		· Animacion enemigos ✅
+	- Terminar Toroide
+	- Terminar la casa 
+	- Terminar la granja 
+	- Terminar el hospital 
+	- Diseñar GUI
 	- Las partes de la fotografia
+	- Crear guión de textos de la voz que te ayuda (la hija)
 	- Animaciones de cinematica
 	- Detalles de ambientación
-	- Diseñar GUI
-	- Crear guión de textos de la voz que te ayuda (la hija)
 
 Unity:
 	- Añadir enemigos y animaciones
