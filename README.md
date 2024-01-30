@@ -1,3 +1,96 @@
+
+-- Plan de trabajo --
+
+	Para el 6 Todos los disños terminados
+
+	Para el 8 Los enemigos y el protsgonista programados
+
+	Para el 13 toda las escenas configuradas
+
+	Para el 15 Crear voz que te ayuda (la hija) con IA terminado
+
+	Para el 20 Poner las voces de la niña
+
+	Para el 22 to el jogo terminao
+
+Diseño:
+
+	- Protagonista ✅
+ 
+	- Enemigos ✅
+ 
+	- Terminar Toroide
+
+	- Terminar la casa 
+ 
+	- Terminar la granja 
+ 
+	- Terminar el hospital 
+ 
+	- Diseñar GUI
+ 
+	- Las partes de la fotografia
+ 
+	- Crear guión de textos de la voz que te ayuda (la hija)
+ 
+	- Animaciones de cinematica
+ 
+	- Detalles de ambientación
+ 
+
+Unity:
+
+	- Añadir enemigos y animaciones
+ 
+		-Programar Enemigos
+  
+			- Perseguir prota (Hacer lo del radio de cercania)
+   
+			- Evitar obstaculos y no atravesarlos
+   
+			- Programar su generación aleatoria
+   
+			- Programar ataque
+   
+			- Programar vida y muerte
+   
+			- 
+	- Prota
+
+ 		- Movimiento (Saltar, correr,..) ✅
+
+     		- Importar anim (Bailar, atacar ) ✅
+
+		- Programar vida y muerte
+  
+		- Programar ataque ( la animación ya está )
+  
+		- Programar esquivar e importar anim REVISAR
+  
+		- Programar para cambiar de escena
+  
+  		-
+	- Escenarios
+ 
+		- Importar escenarios
+  
+		- Crear colliders
+  
+		- Posicionar partes de fotografia
+  
+		- Programar cinematicas
+
+		-
+  
+	- GUI
+ 
+		- Importar GUI
+  
+		- Programar GUI para cada escenario y tutorial inicial
+  
+
+_______________________________________________________________________  
+
 ---- Nombre ----
 
 Fragmented limbs
