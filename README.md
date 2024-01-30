@@ -1,21 +1,20 @@
 
 --- Plan de trabajo ---
 
-Para el 6 Todos los disños terminados
+	Para el 6 Todos los disños terminados
 
-Para el 8 Los enemigos y el protsgonista programados
+	Para el 8 Los enemigos y el protsgonista programados
 
-Para el 13 toda las escenas configuradas
+	Para el 13 toda las escenas configuradas
 
-Para el 15 Crear voz que te ayuda (la hija) con IA terminado
+	Para el 15 Crear voz que te ayuda (la hija) con IA terminado
 
-Para el 20 Poner las voces de la niña
+	Para el 20 Poner las voces de la niña
 
-Para el 22 to el jogo terminao
+	Para el 22 to el jogo terminao
 
 Diseño:
 	- Enemigos ✅
-		· Animacion enemigos ✅
 	- Terminar Toroide
 	- Terminar la casa 
 	- Terminar la granja 
@@ -40,14 +39,13 @@ Unity:
 		- Programar ataque ( la animación ya está )
 		- Programar esquivar e importar anim REVISAR
 		- Programar para cambiar de escena
-
+  		-
 	- Escenarios
 		- Importar escenarios
 		- Crear colliders
 		- Posicionar partes de fotografia
 		- Programar cinematicas
 		-
-
 	- GUI
 		- Importar GUI
 		- Programar GUI para cada escenario y tutorial inicial
