@@ -13,6 +13,7 @@ public class Code : MonoBehaviour
     public GameObject target;
     public bool atacando;
 
+    
 
     // Start is called before the first frame update
     void Start()
@@ -31,6 +32,7 @@ public class Code : MonoBehaviour
             {
                 rutina = Random.Range(0, 2);
                 cronometro = 0;
+                Debug.Log("lo detecta");
             }
             switch (rutina)
             {
