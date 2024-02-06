@@ -1738,7 +1738,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbcb9feb131c3644784f7748322f9c4d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -41.55
+      value: -42.47
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bbcb9feb131c3644784f7748322f9c4d, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1800,6 +1800,7 @@ MonoBehaviour:
   ani: {fileID: 0}
   angulo: {x: 0, y: 0, z: 0, w: 0}
   grado: 0
+  target: {fileID: 0}
 --- !u!95 &1357641931
 Animator:
   serializedVersion: 5
