@@ -34,7 +34,19 @@ public class AnimationController : MonoBehaviour
             // Ejecutar la animación "punching"
             animator.SetTrigger("PunchingTrigger");
         }
+
+        if (Input.GetKeyDown(KeyCode.LeftControl))
+        {
+            // Verificar si se presionó Control
+            Debug.Log("Se presionó Control Izquierdo");
+
+            // Ejecutar la animación "flip"  
+            animator.SetTrigger("FlipTrigger");
+        }
+
     }
 }
+
+
 
 
