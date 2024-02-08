@@ -12,7 +12,7 @@ public class Code : MonoBehaviour
 
     public GameObject target;
     public bool atacando;
-
+    
     
 
     // Start is called before the first frame update
@@ -20,6 +20,11 @@ public class Code : MonoBehaviour
     {
         ani = GetComponent<Animator>();
         target = GameObject.Find("PlayerArmature");
+       
+    }
+     void Update()
+    {
+        Comportamiento_Enemigo();
     }
 
     public void Comportamiento_Enemigo()
@@ -56,7 +61,7 @@ public class Code : MonoBehaviour
         }
         else
         {
-            if (Vector3.Distance(transform.position, target.transform.position) > 1 && !atacando)
+            if (Vector3.Distance(transform.position, target.transform.position) >1 && !atacando)
             {
                 var lookPos = target.transform.position - transform.position;
                 lookPos.y = 0;
@@ -77,18 +82,17 @@ public class Code : MonoBehaviour
                 ani.SetBool("attack", true);
                 atacando = true;
             }
-
+          
+         
         }
     }
     public void Final_Ani()
     {
         ani.SetBool("attack", false);
         atacando = false;
+        Debug.Log("esta reaccionando");
     }
     // Update is called once per frame
-    void Update()
-    {
-        Comportamiento_Enemigo();
-    }
+   
 }
 
