@@ -15,19 +15,19 @@
 
 Diseño:
 
-	- Protagonista ✅
+	- Protagonista ✅ (Rafi k)
  
-	- Enemigos ✅
+	- Enemigos ✅ (Dani vm / Rafi k)
  
-	- Terminar Toroide
+	- Terminar Toroide 🏗️ ( Dani vm / Rafi k)
 
-	- Terminar la casa 
+	- Terminar la casa 🏗️ ( Chococleche / Rafi k )
  
-	- Terminar la granja 
+	- Terminar la granja 🏗️ ( Iker )
  
-	- Terminar el hospital 
+	- Terminar el hospital 🏗️ ( Dani vm)
  
-	- Diseñar GUI
+	- Diseñar GUI 🏗️ (Rafi k)
  
 	- Las partes de la fotografia
  
@@ -40,39 +40,39 @@ Diseño:
 
 Unity:
 
-	- Añadir enemigos y animaciones
+	- Añadir enemigos y animaciones ✅ ( Dani vm / Veruruu )
  
-		-Programar Enemigos
+		-Programar Enemigos ( Veruruu )
   
-			- Perseguir prota (Hacer lo del radio de cercania)
+			- Perseguir prota (Hacer lo del radio de cercania) ✅ ( Veruruu )
    
-			- Evitar obstaculos y no atravesarlos
+			- Evitar obstaculos y no atravesarlos 🏗️ ( Veruruu )
    
-			- Programar su generación aleatoria
+			- Programar su generación aleatoria  
    
-			- Programar ataque
+			- Programar ataque ✅ ( Veruruu )
    
-			- Programar vida y muerte
+			- Programar vida y muerte 🏗️ ( Veruruu )
    
 			- 
 	- Prota
 
- 		- Movimiento (Saltar, correr,..) ✅
+ 		- Movimiento (Saltar, correr,..) ✅ (Rafi k)
 
-     		- Importar anim (Bailar, atacar ) ✅
+     		- Importar anim (Bailar, atacar ) ✅ (Rafi k)
 
 		- Programar vida y muerte
   
-		- Programar ataque ( la animación ya está )
+		- Programar ataque ( la animación ya está ) ✅ (Rafi k)
   
-		- Programar esquivar e importar anim REVISAR
+		- Programar esquivar e importar anim REVISAR ✅ (Rafi k)
   
 		- Programar para cambiar de escena
   
   		-
 	- Escenarios
  
-		- Importar escenarios
+		- Importar escenarios 🏗️
   
 		- Crear colliders
   
