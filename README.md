@@ -63,9 +63,9 @@ Unity:
 
 		- Programar vida y muerte
   
-		- Programar ataque ( la animación ya está ) ✅ (Rafi k)
+		- Programar ataque 🏗️ ( la animación ya está ) ✅ (Rafi k)
   
-		- Programar esquivar e importar anim REVISAR ✅ (Rafi k)
+		- Programar esquivar 🏗️ e importar anim REVISAR ✅ (Rafi k)
   
 		- Programar para cambiar de escena
   
