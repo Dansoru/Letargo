@@ -5,7 +5,7 @@
 
 	Para el 8 Los enemigos y el protsgonista programados 🏗️
 
-	Para el 13 toda las escenas configuradas
+	Para el 13 toda las escenas configuradas 🏗️
 
 	Para el 15 Crear voz que te ayuda (la hija) con IA terminado
 
