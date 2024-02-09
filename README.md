@@ -1,7 +1,7 @@
 
 -- Plan de trabajo --
 
-	Para el 6 Todos los disños terminados
+	Para el 6 Todos los diseños terminados
 
 	Para el 8 Los enemigos y el protsgonista programados
 
