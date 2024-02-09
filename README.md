@@ -1,9 +1,9 @@
 
 -- Plan de trabajo --
 
-	Para el 6 Todos los diseños terminados
+	Para el 6 Todos los diseños terminados 🏗️
 
-	Para el 8 Los enemigos y el protsgonista programados
+	Para el 8 Los enemigos y el protsgonista programados 🏗️
 
 	Para el 13 toda las escenas configuradas
 
