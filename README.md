@@ -65,7 +65,7 @@ Unity:
   
 		- Programar ataque 🏗️ ( la animación ya está ) ✅ (Rafi k)
   
-		- Programar esquivar 🏗️ e importar anim REVISAR ✅ (Rafi k)
+		- Programar esquivar 🏗️ e importar anim ✅ (Rafi k)
   
 		- Programar para cambiar de escena
   
