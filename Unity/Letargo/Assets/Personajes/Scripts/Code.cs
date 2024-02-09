@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class Code : MonoBehaviour
 {
@@ -12,6 +13,7 @@ public class Code : MonoBehaviour
 
     public GameObject target;
     public bool atacando;
+    public UnityEvent OnAttackAnimationFinished;
     
     
 
@@ -20,6 +22,7 @@ public class Code : MonoBehaviour
     {
         ani = GetComponent<Animator>();
         target = GameObject.Find("PlayerArmature");
+        OnAttackAnimationFinished.AddListener(Final_Ani);
        
     }
      void Update()
@@ -91,6 +94,12 @@ public class Code : MonoBehaviour
         ani.SetBool("attack", false);
         atacando = false;
         Debug.Log("esta reaccionando");
+
+        Comportamiento_Enemigo();
+
+        {
+            Final_Ani();
+        }
     }
     // Update is called once per frame
    
