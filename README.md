@@ -80,7 +80,7 @@ Unity:
   
 		- Programar cinematicas
 
-		-
+		- Poner HDRI en SkyBox ✅
   
 	- GUI
  
