@@ -74,7 +74,11 @@ Unity:
  
 		- Importar escenarios 🏗️
   
+  			- Construir escenarios dentro de Unity
+  
 		- Crear colliders
+
+    		- Programar puertas (Dani vm )
   
 		- Posicionar partes de fotografia
   
