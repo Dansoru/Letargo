@@ -6,15 +6,15 @@ GRUPO FORMADO POR:
 
  
 
-1. Iker 
+    1. Iker 
 
-2. Verónica 
+    2. Verónica 
 
-3. Dani V. 
+    3. Dani V. 
 
-4. Rafa 
-
-5. Alejandro 
+    4. Rafa 
+ 
+    5. Alejandro 
 
  
 
@@ -25,14 +25,14 @@ _______________________________________________________________________
 1. ENTORNO. OPCIONES: 
 
 
-CREACIÓN DE ESCENARIO DESDE CERO EN BLENDER (APLICAR COLISIONES). EXPORTACIÓN A UNITY 
+       CREACIÓN DE ESCENARIO DESDE CERO EN BLENDER (APLICAR COLISIONES). EXPORTACIÓN A UNITY 
 
 
  
 
 2. CONTROL DEL JUGADOR 
 
-  TERCERA PERSONA 
+       TERCERA PERSONA 
 
 
  
@@ -40,17 +40,17 @@ CREACIÓN DE ESCENARIO DESDE CERO EN BLENDER (APLICAR COLISIONES). EXPORTACIÓN 
 3. MECÁNICAS.
 
 
-Añadir sonido ambiente 
+       Añadir sonido ambiente 
 
-Añadir timeline. Construir cutscene 
+       Añadir timeline. Construir cutscene 
 
-Añadir collider que desencadene la cutscene 
+       Añadir collider que desencadene la cutscene 
 
-Configuración de detección que desencadena evento: encender luz o activar audio clip 
+       Configuración de detección que desencadena evento: encender luz o activar audio clip 
 
-Al hacer clic en x botón se hace un auto apuntado al enemigo más cercano (REVISAR)  
+       Al hacer clic en x botón se hace un auto apuntado al enemigo más cercano (REVISAR)  
 
-Creación de “portales” 
+       Creación de “portales” 
 
 
 _______________________________________________________________________  
@@ -66,6 +66,9 @@ _______________________________________________________________________
 - Todos los enemigos contaran con un rango en el que si te acercas a él atacará. 
 
 - Cada escenario tiene un color, Granaja (Naranja/Amarillo), Casa (Verde), Hospital (Azul Claro) 
+
+
+
 
 --- DESARROLLO ---
 
@@ -89,6 +92,9 @@ Nivel 3 - Hospital: Apareces en la recepción de un hospital, aquí hay un laber
 
 Cuando consigues la foto completa apareces en el escenario del inicio y sucede el final del juego 
 
+
+
+
  
 
 4. FINAL DE JUEGO: 
@@ -107,15 +113,15 @@ PLAN DE TRABAJO:
 
  
 
-(6 de febrero) 
+    (6 de febrero) 
 
-8 de febrero 
+    8 de febrero 
 
-13 de febrero 
+    13 de febrero 
 
-15 de febrero 
+    15 de febrero 
 
-20 ENTREGAR 
+    20 ENTREGAR 
 
  _______________________________________________________________________ 
  
