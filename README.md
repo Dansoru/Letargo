@@ -27,7 +27,7 @@ Diseño:
  
 	- Terminar el hospital 🏗️ ( Dani vm)
  
-	- Diseñar GUI 🏗️ (Rafi k)
+	- Diseñar GUI ✅ (Rafi k)
  
 	- Las partes de la fotografia
  
@@ -88,7 +88,7 @@ Unity:
   
 	- GUI
  
-		- Importar GUI
+		- Importar GUI ✅ ( Veruruu )
   
 		- Programar GUI para cada escenario y tutorial inicial
   
