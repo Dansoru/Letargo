@@ -1,18 +1,19 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
-public class NewBehaviourScript : MonoBehaviour
+public class CambiarEscenaCollider : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public int numeroEscena;
+
+    private void OnTriggerEnter(Collider other) 
     {
-        
+        if(other.tag == "Player")
+        {
+            SceneManager.LoadScene(numeroEscena);
+        }
+
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
