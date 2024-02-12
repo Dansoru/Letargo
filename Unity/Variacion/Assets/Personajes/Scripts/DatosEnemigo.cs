@@ -2,21 +2,26 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-public class DatosEnemigo : MonoBehaviour
 
+public class JugadorDaño : MonoBehaviour
 {
-    public int vidaEnemigo;
-    public Slider vidaVisual;
-       
-        private void Update()
+    public int damage;
+    public GameObject enemigo;
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Enemigo"))
         {
-
-
-        vidaVisual.GetComponent<Slider>().value = vidaEnemigo;
-           if(vidaEnemigo <=0)
-           {
-            Debug.Log("Enemigo eliminado");
-        
-           } 
+            DatosEnemigo datosEnemigo = other.GetComponent<DatosEnemigo>();
+            if (datosEnemigo != null)
+            {
+                datosEnemigo.vidaEnemigo -= damage;
+            }
         }
+
+        if (other.CompareTag("Player"))
+        {
+            Debug.Log("Esto es un jugador");
+        }
+    }
 }

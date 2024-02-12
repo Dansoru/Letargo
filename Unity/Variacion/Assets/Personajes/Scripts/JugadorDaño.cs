@@ -1,23 +1,28 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
-public class JugadorDa�o: MonoBehaviour
+public class DatosEnemigo : MonoBehaviour
+
 {
-  public int damage;
-public GameObject Enemigo;
-
-private void OnTriggerEnter(Collider other)
-{
-    if (other.tag == "Enemigo")
+    public int vidaEnemigo;
+    public Slider vidaVisual;
+       
+        void Update()
     {
-        Enemigo.GetComponent<DatosEnemigo>().vidaEnemigo -= damage;
-    }
+        // Verifica si vidaVisual no es nulo antes de intentar acceder a sus componentes
+        if (vidaVisual != null)
+        {
+            // Actualiza el valor del slider con la vida del enemigo
+            vidaVisual.value = vidaEnemigo;
+        }
 
-    if (other.tag =="Player")
-    {
-        Debug.Log("esto es un enemigo");
+        // Verifica si la vida del enemigo es menor o igual a cero
+        if (vidaEnemigo <= 0)
+        {
+            // Si es así, muestra un mensaje de depuración
+            Debug.Log("Enemigo eliminado");
+        }
     }
-}
-
 }

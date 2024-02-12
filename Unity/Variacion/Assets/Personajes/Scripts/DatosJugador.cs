@@ -8,15 +8,17 @@ public class DatosJugador : MonoBehaviour
     public int vidaPlayer;
     public Slider vidaVisual;
        
-        private void Update()
+       void Update()
+    {
+        if (vidaVisual != null) // Verificar si la referencia a vidaVisual no es nula
         {
-
-
-        vidaVisual.GetComponent<Slider>().value = vidaPlayer;
-           if(vidaPlayer <=0)
-           {
-            Debug.Log("Game over");
-        
-           } 
+            vidaVisual.value = vidaPlayer; // Actualizar el valor del slider con la vida del jugador
         }
+
+        if (vidaPlayer <= 0)
+        {
+            Debug.Log("Game over");
+            // Aquí puedes agregar lógica adicional para manejar el fin del juego
+        }
+    }
 }
