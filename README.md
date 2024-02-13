@@ -82,7 +82,7 @@ Unity:
   
 		- Posicionar partes de fotografia
 
-    		- Programar que cuando caes te teletransportas a la escena otra vez ✅ (Rafi k)
+    	- Programar que cuando caes te teletransportas a la escena otra vez ✅ (Rafi k)
   
 		- Programar cinematicas
 
