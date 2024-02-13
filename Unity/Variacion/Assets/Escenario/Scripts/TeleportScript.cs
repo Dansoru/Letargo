@@ -9,7 +9,6 @@ public class TeleportScript : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-
             characterController = other.GetComponent<CharacterController>();
 
             if (characterController != null)
@@ -21,6 +20,7 @@ public class TeleportScript : MonoBehaviour
 
     private void TeleportPlayer(GameObject player, Transform destination)
     {
+
         // Establece la posición del CharacterController al destino
         characterController.enabled = false; // Desactiva temporalmente el CharacterController para modificar su posición
         player.transform.position = destination.position;
