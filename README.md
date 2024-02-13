@@ -27,8 +27,13 @@ Diseño:
  
 	- Terminar el hospital 🏗️ ( Dani vm)
  
-	- Diseñar GUI ✅ (Rafi k)
- 
+	- Diseñar GUI  🏗️ (Rafi k)
+ 		- Simbolo de vida ✅ (Rafi k)
+   		- Interfaz inicio 🏗️ (Rafi k)
+
+
+  	- Diseñar logo ✅ (Rafi k)
+   
 	- Las partes de la fotografia
  
 	- Crear guión de textos de la voz que te ayuda (la hija)
@@ -61,11 +66,11 @@ Unity:
 
      		- Importar anim (Bailar, atacar ) ✅ (Rafi k)
 
-		- Programar vida y muerte 🏗️ ( Veruruu )
+		- Programar vida 🏗️ y muerte 🏗️ ( Veruruu )
   
-		- Programar ataque 🏗️ ( la animación ya está ) ✅ (Rafi k)
+		- Programar ataque ( la animación ya está ) ✅ (Rafi k / Veruruu )
   
-		- Programar esquivar 🏗️ e importar anim ✅ (Rafi k)
+		- Programar esquivar e importar anim ✅ (Rafi k / Veruruu )
   
 		- Programar para cambiar de escena ✅ (Rafi k)
   
@@ -78,7 +83,7 @@ Unity:
   
 		- Crear colliders
 
-    		- Programar puertas (Dani vm ) 🏗️
+    		- Programar puertas (Dani vm ) ✅
   
 		- Posicionar partes de fotografia
 
@@ -91,6 +96,7 @@ Unity:
 	- GUI
  
 		- Importar GUI ✅ ( Veruruu )
+  			- 
   
 		- Programar GUI para cada escenario y tutorial inicial
   
