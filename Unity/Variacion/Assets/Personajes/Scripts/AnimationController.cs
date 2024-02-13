@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class AnimationController : MonoBehaviour
 {
-    // Referencia al componente de animación
+    // Referencia al componente de animaciï¿½n
     private Animator animator;
 
     void Start()
@@ -18,29 +18,20 @@ public class AnimationController : MonoBehaviour
         
         if (Input.GetKeyDown(KeyCode.B))
         {
-            // Verificar si la tecla "B" está siendo presionada
-            Debug.Log("Se presionó la tecla 'b'");
-
-            // Ejecutar la animación "Rumba Dancing"
+            // Ejecutar la animaciï¿½n "Rumba Dancing"
             animator.SetTrigger("RumbaDancingTrigger");
         }
 
       
-        if (Input.GetMouseButtonDown(0)) // 0 representa el botón izquierdo del ratón
+        if (Input.GetMouseButtonDown(0)) // 0 representa el botï¿½n izquierdo del ratï¿½n
         {
-            // Verificar si se presionó click izquierdo
-            Debug.Log("Se presionó click izquierdo");
-
-            // Ejecutar la animación "punching"
+            // Ejecutar la animaciï¿½n "punching"
             animator.SetTrigger("PunchingTrigger");
         }
 
         if (Input.GetKeyDown(KeyCode.LeftControl))
         {
-            // Verificar si se presionó Control
-            Debug.Log("Se presionó Control Izquierdo");
-
-            // Ejecutar la animación "flip"  
+            // Ejecutar la animaciï¿½n "flip"  
             animator.SetTrigger("FlipTrigger");
         }
 

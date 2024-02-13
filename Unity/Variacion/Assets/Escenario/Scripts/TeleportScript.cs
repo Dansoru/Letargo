@@ -2,20 +2,28 @@ using UnityEngine;
 
 public class TeleportScript : MonoBehaviour
 {
-    public Transform destination; // Objeto al que se teletransportará el jugador
+    public Transform teleportDestination; // Asigna el destino del teletransporte en el Inspector
+    private CharacterController characterController;
 
     private void OnTriggerEnter(Collider other)
     {
-        // Verifica si el objeto que entró en el trigger es el jugador (puedes ajustar esto según tu configuración)
         if (other.CompareTag("Player"))
         {
-            TeleportPlayer(other.transform);
+            characterController = other.GetComponent<CharacterController>();
+
+            if (characterController != null)
+            {
+                TeleportPlayer(other.gameObject, teleportDestination);
+            }
         }
     }
 
-    private void TeleportPlayer(Transform player)
+    private void TeleportPlayer(GameObject player, Transform destination)
     {
-        // Teletransporta al jugador al objeto de destino
-        player.position = destination.position;
+
+        // Establece la posición del CharacterController al destino
+        characterController.enabled = false; // Desactiva temporalmente el CharacterController para modificar su posición
+        player.transform.position = destination.position;
+        characterController.enabled = true; // Reactiva el CharacterController después de modificar la posición
     }
 }
