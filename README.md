@@ -61,13 +61,13 @@ Unity:
 
      		- Importar anim (Bailar, atacar ) ✅ (Rafi k)
 
-		- Programar vida y muerte
+		- Programar vida y muerte 🏗️ ( Veruruu )
   
 		- Programar ataque 🏗️ ( la animación ya está ) ✅ (Rafi k)
   
 		- Programar esquivar 🏗️ e importar anim ✅ (Rafi k)
   
-		- Programar para cambiar de escena
+		- Programar para cambiar de escena ✅ (Rafi k)
   
   		-
 	- Escenarios
@@ -78,13 +78,15 @@ Unity:
   
 		- Crear colliders
 
-    		- Programar puertas (Dani vm )
+    		- Programar puertas (Dani vm ) 🏗️
   
 		- Posicionar partes de fotografia
+
+    		- Programar que cuando caes te teletransportas a la escena otra vez ✅ (Rafi k)
   
 		- Programar cinematicas
 
-		- Poner HDRI en SkyBox ✅
+		- Poner HDRI en SkyBox ✅ (Rafi k)
   
 	- GUI
  
