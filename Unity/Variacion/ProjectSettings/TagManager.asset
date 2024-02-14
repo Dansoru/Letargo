@@ -8,6 +8,7 @@ TagManager:
   - "pu\xF1o"
   - Enemigo
   - BrazoDerecho
+  - vidas
   layers:
   - Default
   - TransparentFX
