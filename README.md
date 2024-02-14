@@ -1,4 +1,3 @@
-![image](https://github.com/Dansoru/Letargo/assets/125549569/deb9a5ad-a0a6-44d2-8855-f04b4d01225e)
 -- Plan de trabajo --
 
 	Para el 6 Todos los diseños terminados 🏗️
