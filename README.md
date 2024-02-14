@@ -98,6 +98,10 @@ Unity:
   			- 
   
 		- Programar GUI para cada escenario y tutorial inicial
+
+  Musica:
+
+  		- Hacer la musica 🏗️ ( Chococleche
   
 
 _______________________________________________________________________  
