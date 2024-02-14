@@ -1,4 +1,3 @@
-
 -- Plan de trabajo --
 
 	Para el 6 Todos los diseños terminados 🏗️
@@ -36,7 +35,7 @@ Diseño:
    
 	- Las partes de la fotografia
  
-	- Crear guión de textos de la voz que te ayuda (la hija)
+	- Crear guión de textos de la voz que te ayuda (la hija) 🏗️ ( Chococleche )
  
 	- Animaciones de cinematica
  
@@ -99,6 +98,10 @@ Unity:
   			- 
   
 		- Programar GUI para cada escenario y tutorial inicial
+
+  Musica:
+
+  		- Hacer la musica 🏗️ ( Chococleche
   
 
 _______________________________________________________________________  
