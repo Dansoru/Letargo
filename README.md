@@ -23,8 +23,10 @@ Diseño:
 	- Terminar la casa 🏗️ ( Chococleche / Rafi k )
  
 	- Terminar la granja 🏗️ ( Iker )
+ 		
  
 	- Terminar el hospital 🏗️ ( Dani vm)
+		- Animar hospital 🏗️ ( Dani vm)
  
 	- Diseñar GUI  🏗️ (Rafi k)
  		- Simbolo de vida ✅ (Rafi k)
@@ -44,7 +46,7 @@ Diseño:
 
 Unity:
 
-	- Añadir enemigos y animaciones ✅ ( Dani vm / Veruruu )
+	- Añadir enemigo chico y animaciones ✅ ( Dani vm / Veruruu )
  
 		-Programar Enemigos ( Veruruu )
   
@@ -55,6 +57,19 @@ Unity:
 			- Programar su generación aleatoria  
    
 			- Programar ataque ✅ ( Veruruu )
+   
+			- Programar vida y muerte 🏗️ ( Veruruu )
+   
+			- 
+ 	  - Añadir Boss y animaciones ✅ ( Veruruu )
+ 
+		-Programar Boss ( Veruruu )
+  
+			- Perseguir prota (Hacer lo del radio de cercania) 🏗️ ( Veruruu )
+   
+			- Evitar obstaculos y no atravesarlos 🏗️ ( Veruruu )
+   
+			- Programar ataque 🏗️ ( Veruruu )
    
 			- Programar vida y muerte 🏗️ ( Veruruu )
    
