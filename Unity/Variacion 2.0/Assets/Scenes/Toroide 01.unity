@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.00038094178, g: 0.00052365626, b: 0.00034822198, a: 1}
+  m_IndirectSpecularColor: {r: 0.00043921953, g: 0.00052370975, b: 0.00040572847, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -317,7 +317,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -767.7, y: 432.04315}
+  m_AnchoredPosition: {x: -767.7, y: 371}
   m_SizeDelta: {x: 210.3609, y: 92.8015}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &110538376
@@ -462,7 +462,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -835.25354, y: 432.04315}
+  m_AnchoredPosition: {x: -835.25354, y: 371}
   m_SizeDelta: {x: 210.3609, y: 92.8015}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &209279645
@@ -1607,7 +1607,6 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
-  m_VertexColorAlwaysGammaSpace: 0
   m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
@@ -1942,7 +1941,6 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
-  m_VertexColorAlwaysGammaSpace: 0
   m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
@@ -4628,7 +4626,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -688.2, y: 432.04315}
+  m_AnchoredPosition: {x: -688.2, y: 371}
   m_SizeDelta: {x: 210.3609, y: 92.8015}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1663035746
