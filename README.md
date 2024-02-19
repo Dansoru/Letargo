@@ -1,3 +1,7 @@
+
+![Logo Letargo](https://github.com/Dansoru/Letargo/assets/146813308/f0910715-0163-4264-b1f0-29dd0cecc8c3)
+
+
 -- Plan de trabajo --
 
 	Para el 6 Todos los diseños terminados 🏗️
