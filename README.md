@@ -35,7 +35,7 @@ Diseño:
 
   	- Diseñar logo ✅ (Rafi k)
    
-	- Las partes de la fotografia
+	- Las partes de la fotografia ✅
  
 	- Crear guión de textos de la voz que te ayuda (la hija) 🏗️ ( Chococleche )
  
