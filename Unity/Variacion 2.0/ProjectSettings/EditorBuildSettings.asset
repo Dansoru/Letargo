@@ -18,6 +18,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Hospital.unity
     guid: c1c8034055174bf4e885a7052302e051
   - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/pruebas/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
