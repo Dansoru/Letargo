@@ -8,6 +8,7 @@ TagManager:
   - "pu\xF1o"
   - BrazoDerecho
   - Enemigo
+  - Collider
   layers:
   - Default
   - TransparentFX
