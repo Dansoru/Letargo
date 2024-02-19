@@ -13,5 +13,8 @@ public class CambiarEscena : MonoBehaviour
 
         SceneManager.LoadScene(numeroEscena);
 
-   }
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
+
+    }
 }
