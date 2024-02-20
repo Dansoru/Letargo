@@ -29,21 +29,23 @@ Diseño:
 	- Terminar la granja 🏗️ ( Iker )
  		
  
-	- Terminar el hospital 🏗️ ( Dani vm)
-		- Animar hospital 🏗️ ( Dani vm)
+	- Terminar el hospital ✅ ( Dani vm)
+		- Animar hospital ✅ ( Dani vm)
  
 	- Diseñar GUI  🏗️ (Rafi k)
  		- Simbolo de vida ✅ (Rafi k)
-   		- Interfaz inicio 🏗️ (Rafi k)
+   		- Interfaz inicio ✅ (Rafi k)
 
 
   	- Diseñar logo ✅ (Rafi k)
    
-	- Las partes de la fotografia ✅
+	- Las partes de la fotografia ✅ (Rafi k)
  
 	- Crear guión de textos de la voz que te ayuda (la hija) 🏗️ ( Veruruuu, Rafa,Dani vm )
  
-	- Animaciones de cinematica
+	- Animaciones de cinematica 🏗️ ( Dani vm )
+ 		- Boss en hospital  ✅ ( Dani vm )
+   		-
  
 	- Detalles de ambientación
  
@@ -52,7 +54,7 @@ Unity:
 
 	- Añadir enemigo chico y animaciones ✅ ( Dani vm / Veruruu )
  
-		-Programar Enemigos ( Veruruu )
+		-Programar Enemigos ( Veruruu ) 🏗️
   
 			- Perseguir prota (Hacer lo del radio de cercania) ✅ ( Veruruu )
    
@@ -69,7 +71,7 @@ Unity:
  
 		-Programar Boss ( Veruruu )
   
-			- Perseguir prota (Hacer lo del radio de cercania) 🏗️ ( Veruruu )
+			- Perseguir prota (Hacer lo del radio de cercania) ✅ ( Veruruu )
    
 			- Evitar obstaculos y no atravesarlos 🏗️ ( Veruruu )
    
@@ -84,7 +86,7 @@ Unity:
 
      		- Importar anim (Bailar, atacar ) ✅ (Rafi k)
 
-		- Programar vida 🏗️ y muerte 🏗️ ( Veruruu )
+		- Programar vida ✅ y muerte 🏗️ ( Veruruu )
   
 		- Programar ataque ( la animación ya está ) ✅ (Rafi k / Veruruu )
   
@@ -99,7 +101,7 @@ Unity:
   
   			- Construir escenarios dentro de Unity
   
-		- Crear colliders
+		- Crear colliders 🏗️
 
     		- Programar puertas (Dani vm ) ✅
   
@@ -116,11 +118,11 @@ Unity:
 		- Importar GUI ✅ ( Veruruu )
   			- 
   
-		- Programar GUI para cada escenario y tutorial inicial
+		- Programar GUI para cada escenario y tutorial inicial 🏗️ ( Veruruu )
 
   Musica:
 
-  		- Hacer la musica 🏗️ ( Chocoleche / Tes )
+  		- Hacer la musica 🏗️ ( Javier / Tes )
   
 
 _______________________________________________________________________  
