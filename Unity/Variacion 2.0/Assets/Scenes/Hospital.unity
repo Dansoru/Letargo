@@ -1306,7 +1306,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 121201561740943484, guid: 093f5c3ca96d13b438b2a8b5c19c25ef, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.19999981
+      value: 0.19999695
       objectReference: {fileID: 0}
     - target: {fileID: 121201561740943484, guid: 093f5c3ca96d13b438b2a8b5c19c25ef, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1342,7 +1342,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7004035676751588974, guid: 093f5c3ca96d13b438b2a8b5c19c25ef, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.19999981
+      value: 0.19999695
       objectReference: {fileID: 0}
     - target: {fileID: 7004035676751588974, guid: 093f5c3ca96d13b438b2a8b5c19c25ef, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1382,7 +1382,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9047224644676741336, guid: 093f5c3ca96d13b438b2a8b5c19c25ef, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 6.2
+      value: -83.07
       objectReference: {fileID: 0}
     - target: {fileID: 9047224644676741336, guid: 093f5c3ca96d13b438b2a8b5c19c25ef, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3607,8 +3607,8 @@ GameObject:
   - component: {fileID: 2126399820}
   - component: {fileID: 2126399819}
   - component: {fileID: 2126399818}
-  - component: {fileID: 2126399822}
   - component: {fileID: 2126399816}
+  - component: {fileID: 2126399821}
   m_Layer: 0
   m_Name: ColliderVideo
   m_TagString: Collider
@@ -3694,7 +3694,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 31
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2126399822
+--- !u!114 &2126399821
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3703,7 +3703,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2126399815}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec4a2cc8d6c08964eba9a6cae3316a2e, type: 3}
+  m_Script: {fileID: 11500000, guid: 283d7e6e45ea27b4ea033c1ed23ab271, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  videoPlayer: {fileID: 125663202}
+  numeroEscena: 3
