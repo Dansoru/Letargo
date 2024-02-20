@@ -41,4 +41,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Video Final.unity
     guid: fe1f997c4faa58d46b942736395d704c
+  - enabled: 1
+    path: Assets/Scenes/Casa.unity
+    guid: 1bc8221fa3a87e943bfaa01ad3fece9c
   m_configObjects: {}
