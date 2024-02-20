@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.00038094178, g: 0.00052365626, b: 0.00034822198, a: 1}
+  m_IndirectSpecularColor: {r: 0.00043921953, g: 0.00052370975, b: 0.00040572847, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1603,6 +1603,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -9164439349039479727, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.12
+      objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -1647,13 +1651,101 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8445967705564183140, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.12
+      objectReference: {fileID: 0}
+    - target: {fileID: -7864052644879333855, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.12
+      objectReference: {fileID: 0}
+    - target: {fileID: -7667284016522062642, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.12
+      objectReference: {fileID: 0}
+    - target: {fileID: -7649827319844291320, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.12
+      objectReference: {fileID: 0}
+    - target: {fileID: -6599262491912719753, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.12
+      objectReference: {fileID: 0}
+    - target: {fileID: -6436940130226702232, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.12
+      objectReference: {fileID: 0}
+    - target: {fileID: -6140988107086943279, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.12
+      objectReference: {fileID: 0}
+    - target: {fileID: -5690185938010310351, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.12
+      objectReference: {fileID: 0}
+    - target: {fileID: -5408322702657723359, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.12
+      objectReference: {fileID: 0}
+    - target: {fileID: -1951411705198452967, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.12
+      objectReference: {fileID: 0}
+    - target: {fileID: -1910169619248768050, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.12
+      objectReference: {fileID: 0}
+    - target: {fileID: -1495112762280748387, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.12
+      objectReference: {fileID: 0}
+    - target: {fileID: -499096143515875245, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.12
+      objectReference: {fileID: 0}
+    - target: {fileID: -400382757823920040, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 190961322200935855, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.12
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
       propertyPath: m_Name
       value: Hospital acabado
       objectReference: {fileID: 0}
+    - target: {fileID: 1197483427273806279, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 1890872095075300015, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.12
+      objectReference: {fileID: 0}
     - target: {fileID: 2773653797300911660, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
       propertyPath: m_Enabled
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4921484027645270051, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 4986369359100028402, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 5143951230317097859, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 5423183823403065525, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 8080807576454187931, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.12
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4b5087b6b22560d4bb710b35d2aacb00, type: 3}
@@ -3479,8 +3571,8 @@ GameObject:
   - component: {fileID: 2126399820}
   - component: {fileID: 2126399819}
   - component: {fileID: 2126399818}
-  - component: {fileID: 2126399822}
   - component: {fileID: 2126399816}
+  - component: {fileID: 2126399821}
   m_Layer: 0
   m_Name: ColliderVideo
   m_TagString: Collider
@@ -3566,7 +3658,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 30
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2126399822
+--- !u!114 &2126399821
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3575,7 +3667,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2126399815}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec4a2cc8d6c08964eba9a6cae3316a2e, type: 3}
+  m_Script: {fileID: 11500000, guid: 283d7e6e45ea27b4ea033c1ed23ab271, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  videoPlayer: {fileID: 125663202}
+  numeroEscena: 3

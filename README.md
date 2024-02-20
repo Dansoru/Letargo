@@ -41,7 +41,7 @@ Diseño:
    
 	- Las partes de la fotografia ✅
  
-	- Crear guión de textos de la voz que te ayuda (la hija) 🏗️ ( Chococleche )
+	- Crear guión de textos de la voz que te ayuda (la hija) 🏗️ ( Veruruuu, Rafa,Dani vm )
  
 	- Animaciones de cinematica
  
@@ -120,7 +120,7 @@ Unity:
 
   Musica:
 
-  		- Hacer la musica 🏗️ ( Chococleche / Tes )
+  		- Hacer la musica 🏗️ ( Chocoleche / Tes )
   
 
 _______________________________________________________________________  
