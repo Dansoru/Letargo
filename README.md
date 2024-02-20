@@ -26,7 +26,7 @@ Diseño:
 
 	- Terminar la casa 🏗️ ( Chococleche / Rafi k )
  
-	- Terminar la granja 🏗️ ( Iker )
+	- Terminar la granja ✅ ( Iker )
  		
  
 	- Terminar el hospital ✅ ( Dani vm)
