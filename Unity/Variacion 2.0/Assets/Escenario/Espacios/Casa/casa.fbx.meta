@@ -14,16 +14,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Negro
     second: {fileID: 2100000, guid: c3ef2b7cf87f19a4bbf0241d73e85f43, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "caquita 2 \U0001F92B"
-    second: {fileID: 2100000, guid: 8b06e28d21202894c91f267d3d02332e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "caquita \U0001F92B"
-    second: {fileID: 2100000, guid: 7655d5e7fded4b64c9af105ebf6f55ba, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
