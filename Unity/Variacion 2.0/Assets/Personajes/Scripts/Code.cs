@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class Code : MonoBehaviour
 {
@@ -13,7 +14,10 @@ public class Code : MonoBehaviour
     public GameObject target;
     public bool atacando;
 
-    
+    public NavMeshAgent agente;
+    public float distancia_ataque;
+    public float radio_vision;
+    public float speed;
 
     // Start is called before the first frame update
     void Start()
@@ -21,28 +25,30 @@ public class Code : MonoBehaviour
         ani = GetComponent<Animator>();
         target = GameObject.Find("PlayerArmature");
     }
-     void Update()
+
+    void Update()
     {
         Comportamiento_Enemigo();
     }
 
     public void Comportamiento_Enemigo()
     {
-        if (Vector3.Distance(transform.position, target.transform.position) > 10)
+        if (Vector3.Distance(transform.position, target.transform.position) > radio_vision)
         {
+            agente.enabled = false;
             ani.SetBool("run", false);
-            cronometro += 1 * Time.deltaTime;
+            cronometro += Time.deltaTime;
             if (cronometro >= 4)
             {
                 rutina = Random.Range(0, 2);
                 cronometro = 0;
-                Debug.Log("lo detecta");
+                Debug.Log("Lo detecta");
             }
             switch (rutina)
             {
                 case 0:
                     ani.SetBool("walk", false);
-                    Debug.Log("se esta enviando false");
+                    Debug.Log("Se está enviando false");
                     break;
 
                 case 1:
@@ -53,42 +59,51 @@ public class Code : MonoBehaviour
 
                 case 2:
                     transform.rotation = Quaternion.RotateTowards(transform.rotation, angulo, 0.5f);
-                    transform.Translate(Vector3.forward * 1 * Time.deltaTime);
+                    transform.Translate(Vector3.forward * speed * Time.deltaTime);
                     ani.SetBool("walk", true);
                     break;
             }
         }
         else
         {
-            if (Vector3.Distance(transform.position, target.transform.position) > 1 && !atacando)
+            var lookPos = target.transform.position - transform.position;
+            lookPos.y = 0;
+            var rotation = Quaternion.LookRotation(lookPos);
+            
+            agente.enabled = true;
+            agente.SetDestination(target.transform.position);
+
+            if (Vector3.Distance(transform.position, target.transform.position) > distancia_ataque && !atacando)
             {
-                var lookPos = target.transform.position - transform.position;
-                lookPos.y = 0;
-                var rotation = Quaternion.LookRotation(lookPos);
-                transform.rotation = Quaternion.RotateTowards(transform.rotation, rotation, 2);
                 ani.SetBool("walk", false);
-
                 ani.SetBool("run", true);
-                transform.Translate(Vector3.forward * 3 * Time.deltaTime);
-
-                ani.SetBool("attack", false);
             }
             else
             {
-                ani.SetBool("walk", false);
-                ani.SetBool("run", false);
-
-                ani.SetBool("attack", true);
-                atacando = true;
+                if (!atacando)
+                {
+                    transform.rotation = Quaternion.RotateTowards(transform.rotation, rotation, 1);
+                    ani.SetBool("walk", false);
+                    ani.SetBool("run", false);
+                }
             }
-
+        }
+        
+        if (atacando)
+        {
+            agente.enabled = false;
         }
     }
+
     public void Final_Ani()
     {
+        if (Vector3.Distance(transform.position, target.transform.position) > distancia_ataque + 0.2f)
+        {
+            ani.SetBool("attack", false);
+        }
         ani.SetBool("attack", false);
         atacando = false;
-        Debug.Log("esta reaccionando");
+        Debug.Log("Está reaccionando");
 
         Comportamiento_Enemigo();
     }
@@ -96,6 +111,5 @@ public class Code : MonoBehaviour
     public void OnAttackAnimationEnd()
     {
         Final_Ani();
-    }
-
+    } 
 }
