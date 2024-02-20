@@ -1,10 +1,12 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Recolector : MonoBehaviour
 {
     public KeyCode teclaRecolectar = KeyCode.E;
     public GameObject objetoRecolectable;
     private bool jugadorDentro = false;
+    public string nombreNuevaEscena; // Nombre de la nueva escena a cargar
 
     private void Update()
     {
@@ -39,6 +41,12 @@ public class Recolector : MonoBehaviour
         {
             objetoRecolectable.SetActive(false);
             Debug.Log("Objeto recolectado");
+
+            // Cambiar a la nueva escena
+            if (!string.IsNullOrEmpty(nombreNuevaEscena))
+            {
+                SceneManager.LoadScene(nombreNuevaEscena);
+            }
         }
     }
 }

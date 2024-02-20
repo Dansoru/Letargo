@@ -1153,6 +1153,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   teclaRecolectar: 101
   objetoRecolectable: {fileID: 638972411}
+  nombreNuevaEscena: Toroide 02
 --- !u!23 &638972414
 MeshRenderer:
   m_ObjectHideFlags: 0
