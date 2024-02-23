@@ -21,7 +21,7 @@ public class Recolector : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             jugadorDentro = true;
-            Debug.Log("Player dentro del collider");
+            //Debug.Log("Player dentro del collider");
         }
     }
 
@@ -30,7 +30,7 @@ public class Recolector : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             jugadorDentro = false;
-            Debug.Log("Player fuera del collider");
+            //Debug.Log("Player fuera del collider");
         }
     }
 
@@ -40,7 +40,7 @@ public class Recolector : MonoBehaviour
         if (jugadorDentro && objetoRecolectable != null)
         {
             objetoRecolectable.SetActive(false);
-            Debug.Log("Objeto recolectado");
+           // Debug.Log("Objeto recolectado");
 
             // Cambiar a la nueva escena
             if (!string.IsNullOrEmpty(nombreNuevaEscena))

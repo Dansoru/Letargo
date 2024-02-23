@@ -10,7 +10,7 @@ public class ReproducirMP4 : MonoBehaviour
         if (other.CompareTag("Player")) // Asegúrate de que solo el jugador active el video
         {
             ReproducirVideo();
-            Debug.Log("Se esta ejecutando el video");
+            //Debug.Log("Se esta ejecutando el video");
         }
     }
 

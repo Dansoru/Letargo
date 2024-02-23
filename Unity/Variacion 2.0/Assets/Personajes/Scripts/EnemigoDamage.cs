@@ -5,7 +5,7 @@ using UnityEngine;
 public class EnemigoDamage: MonoBehaviour
 {
   public int damage;
-public GameObject Player;
+  public GameObject Player;
 
 private void OnTriggerEnter(Collider other)
 {
@@ -14,10 +14,10 @@ private void OnTriggerEnter(Collider other)
         Player.GetComponent<DatosJugador>().vidaPlayer -= damage;
     }
 
-    if (other.tag =="Enemigo")
+  /*  if (other.tag =="Enemigo")
     {
         Debug.Log("esto es un enemigo");
-    }
+    } */
 }
 
 }

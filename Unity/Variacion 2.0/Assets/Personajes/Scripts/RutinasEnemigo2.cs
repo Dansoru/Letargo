@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Code : MonoBehaviour
+public class RutinasEnemigo2 : MonoBehaviour
 {
     public int rutina;
     public float cronometro;
@@ -36,13 +36,13 @@ public class Code : MonoBehaviour
             {
                 rutina = Random.Range(0, 2);
                 cronometro = 0;
-                Debug.Log("lo detecta");
+               // Debug.Log("lo detecta");
             }
             switch (rutina)
             {
                 case 0:
                     ani.SetBool("walk", false);
-                    Debug.Log("se esta enviando false");
+                   // Debug.Log("se esta enviando false");
                     break;
 
                 case 1:
@@ -88,7 +88,7 @@ public class Code : MonoBehaviour
     {
         ani.SetBool("attack", false);
         atacando = false;
-        Debug.Log("esta reaccionando");
+       // Debug.Log("esta reaccionando");
 
         Comportamiento_Enemigo();
     }

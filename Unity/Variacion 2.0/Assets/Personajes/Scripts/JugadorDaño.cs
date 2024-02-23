@@ -3,37 +3,25 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class DatosEnemigo : MonoBehaviour
-
+public class JugadorDaño : MonoBehaviour
 {
-    public int vidaEnemigo;
-    public Slider vidaVisual;
-    public Animator animator;
+    public int damage;
+    //public GameObject enemigo;
 
-    private void Start()
+    private void OnTriggerEnter(Collider other)
     {
-        vidaVisual.maxValue = vidaEnemigo;
-        animator.GetComponent<Animator>();
-    }
-
-
-
-
-    void Update()
+        if (other.CompareTag("Enemigo"))
         {
-        // Verifica si vidaVisual no es nulo antes de intentar acceder a sus componentes
-        if (vidaVisual != null)
-        {
-            // Actualiza el valor del slider con la vida del enemigo
-            vidaVisual.value = vidaEnemigo;
+            DatosEnemigo datosEnemigo = other.GetComponent<DatosEnemigo>();
+            if (datosEnemigo != null)
+            {
+                datosEnemigo.vidaEnemigo -= damage;
+            }
         }
 
-        // Verifica si la vida del enemigo es menor o igual a cero
-        if (vidaEnemigo <= 0)
+       /* if (other.CompareTag("Player"))
         {
-            // Si es así, muestra un mensaje de depuración
-            animator.Play("Muerte");
-            Debug.Log("Enemigo eliminado");
-        }
+            Debug.Log("Esto es un jugador");
+        }*/
     }
 }
