@@ -1,9 +1,9 @@
 using UnityEngine;
-using UnityEngine.UI;
+using TMPro;
 
 public class Texto : MonoBehaviour
 {
-    public Text textoIntroduccion;
+    public TextMeshProUGUI textoIntroduccion;
     public string[] mensajes = { "Papa??", "¿Donde estás?" };
     public float tiempoEntreMensajes = 3f;
     public float retrasoInicial = 10f;
