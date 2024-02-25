@@ -2,7 +2,7 @@
 ![Logo Letargo](https://github.com/Dansoru/Letargo/assets/146813308/f0910715-0163-4264-b1f0-29dd0cecc8c3)
 
 
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Dansoru/Letargo/total?style=flat&link=https%3A%2F%2Fgithub.com%2FDansoru%2FLetargo%2Freleases)
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Dansoru/Letargo/total?style=flat&link=https%3A%2F%2Fgithub.com%2FDansoru%2FLetargo%2Freleases)](https://github.com/Dansoru/Letargo/releases)
 [![Github All Releases](https://img.shields.io/github/release/Dansoru/Letargo.svg)](https://github.com/Dansoru/Letargo/releases)
 
 -- Plan de trabajo --
