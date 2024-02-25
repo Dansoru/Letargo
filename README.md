@@ -10,7 +10,8 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDansoru%2FLetargo&label=Visitas&labelColor=%235e5e5e&countColor=%2375e6f7&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FDansoru%2FLetargo)
 
 </div>
--- Plan de trabajo --
+
+# Plan de trabajo
 
 	Para el 6 Todos los diseños terminados 🏗️
 
@@ -24,7 +25,7 @@
 
 	Para el 22 to el jogo terminao
 
-Diseño:
+## Diseño:
 
 	- Protagonista ✅ (Rafi k)
  
@@ -58,7 +59,7 @@ Diseño:
 	- Detalles de ambientación
  
 
-Unity:
+## Unity:
 
 	- Añadir enemigo chico y animaciones ✅ ( Dani vm / Veruruu )
  
@@ -128,14 +129,14 @@ Unity:
   
 		- Programar GUI para cada escenario y tutorial inicial 🏗️ ( Veruruu )
 
-  Musica:
+  ## Musica:
 
   		- Hacer la musica 🏗️ ( Javier / Tes )
   
 
 _______________________________________________________________________  
 
----- Nombre ----
+# Nombre
 
 Fragmented limbs
 
@@ -153,11 +154,11 @@ Lethargus
 
 Sopor 
 
----- Sensaciones ----
+# Sensaciones
 
 Trsiteza Melancolia Soledad Droga Sueño Frustació Ansiedad Amor
 
----- Historia ----
+# Historia
 Papu en New York se crackea el brain con coca
 
 Mundo de los sueños / Estructura del cerebro
@@ -168,7 +169,7 @@ Mundo informatico (Tipo matrix)
 
 ///Dani Idea/// Hay un arbol gigante en medio, en el arbol hay una puerta (cerrada), y bueno lo que se me a courrio, recuerda un parkur que hicimo que tenia que pulsar tre plataforma pa abrir la puerta, en plan a qui ya no escrbibas aQUI YA NO; son cosa que hemo echo, y al fin y al cabo hay que ponerlo
 
----- El espacio ----
+# El espacio
 
 En la maind
 
@@ -180,6 +181,6 @@ El oceano
 
 Galaxia - Planetas, estrellas
 
---- Conclusiones (El espacio) ---
+# Conclusiones (El espacio) ✅
 
-Mezclar oceano y galaxia
+Mezclar oceano y galaxia 
