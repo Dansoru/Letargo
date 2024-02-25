@@ -49,7 +49,7 @@ Diseño:
    
 	- Las partes de la fotografia ✅ (Rafi k)
  
-	- Crear guión de textos de la voz que te ayuda (la hija) 🏗️ ( Veruruuu, Rafa,Dani vm )
+	- Crear guión de textos de la voz que te ayuda (la hija) 🏗️ ( Veruruuu, Rafa, Dani vm )
  
 	- Animaciones de cinematica 🏗️ ( Dani vm )
  		- Boss en hospital  ✅ ( Dani vm )
