@@ -4,7 +4,7 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
-| v2.0.0-alpha   | :no_entry_sign: |
+| v2.0.0-alpha   | ✅|
 
 ## Reporting a Vulnerability
 
