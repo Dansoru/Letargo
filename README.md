@@ -53,7 +53,7 @@ Diseño:
  
 	- Animaciones de cinematica 🏗️ ( Dani vm )
  		- Boss en hospital  ✅ ( Dani vm )
-   		-
+   	
  
 	- Detalles de ambientación
  
@@ -74,7 +74,7 @@ Unity:
    
 			- Programar vida y muerte 🏗️ ( Veruruu )
    
-			- 
+			
  	  - Añadir Boss y animaciones ✅ ( Veruruu )
  
 		-Programar Boss ( Veruruu )
@@ -87,7 +87,7 @@ Unity:
    
 			- Programar vida y muerte 🏗️ ( Veruruu )
    
-			- 
+			
 	- Prota
 
  		- Movimiento (Saltar, correr,..) ✅ (Rafi k)
@@ -102,7 +102,7 @@ Unity:
   
 		- Programar para cambiar de escena ✅ (Rafi k)
   
-  		-
+  	
 	- Escenarios
  
 		- Importar escenarios 🏗️
@@ -124,7 +124,7 @@ Unity:
 	- GUI
  
 		- Importar GUI ✅ ( Veruruu )
-  			- 
+  		
   
 		- Programar GUI para cada escenario y tutorial inicial 🏗️ ( Veruruu )
 
