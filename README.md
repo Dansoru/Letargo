@@ -2,6 +2,8 @@
 ![Logo Letargo](https://github.com/Dansoru/Letargo/assets/146813308/f0910715-0163-4264-b1f0-29dd0cecc8c3)
 
 
+[![Github All Releases](https://img.shields.io/github/downloads/Dansoru/Letargo/total.svg)](https://github.com/Dansoru/Letargo/releases) [![Github All Releases](https://img.shields.io/github/release/Dansoru/Letargo.svg)](https://github.com/Dansoru/Letargo/releases)
+
 -- Plan de trabajo --
 
 	Para el 6 Todos los diseños terminados 🏗️
