@@ -6,7 +6,7 @@
 	
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Dansoru/Letargo/total?label=Downloads&color=%2390D54C)](https://github.com/Dansoru/Letargo/releases)
 ![Static Badge](https://img.shields.io/badge/Idioma-%F0%9F%87%AA%F0%9F%87%B8-%23f44336?style=flat&link=https%3A%2F%2Fgithub.com%2FDansoru%2FLetargo%2Freleases)
-[![GitHub Release](https://img.shields.io/github/v/release/Dansoru/Letargo?display_name=release&label=Release)](https://github.com/Dansoru/Letargo/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/Dansoru/Letargo?include_prereleases&display_name=release&label=Release)](https://github.com/Dansoru/Letargo/releases)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDansoru%2FLetargo&label=Visitas&labelColor=%235e5e5e&countColor=%2375e6f7&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FDansoru%2FLetargo)
 
 </div>
