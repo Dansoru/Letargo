@@ -910,7 +910,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damage: 1
-  enemigo: {fileID: 0}
 --- !u!65 &281296788
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8038,7 +8037,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   vidaPlayer: 3
-  vidas: []
+  vidas:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
 --- !u!114 &1696586325
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -2118,6 +2118,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5379501430634739241, guid: 67577068755aa3c4f89c08a2959587ee, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 0fd56f5b02328924d8c4b5fe87d87753, type: 3}
     - target: {fileID: 8454163335722814719, guid: 67577068755aa3c4f89c08a2959587ee, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.8835907
@@ -2174,6 +2178,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8454163336996119179, guid: 67577068755aa3c4f89c08a2959587ee, type: 3}
+      propertyPath: vidas.Array.data[0]
+      value: 
+      objectReference: {fileID: 1382736259}
+    - target: {fileID: 8454163336996119179, guid: 67577068755aa3c4f89c08a2959587ee, type: 3}
+      propertyPath: vidas.Array.data[1]
+      value: 
+      objectReference: {fileID: 1881503055}
+    - target: {fileID: 8454163336996119179, guid: 67577068755aa3c4f89c08a2959587ee, type: 3}
+      propertyPath: vidas.Array.data[2]
+      value: 
+      objectReference: {fileID: 682590065}
     - target: {fileID: 8454163337618131736, guid: 67577068755aa3c4f89c08a2959587ee, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.8835907

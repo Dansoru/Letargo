@@ -1413,6 +1413,18 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -2.7791138
       objectReference: {fileID: 0}
+    - target: {fileID: 8454163336996119179, guid: 67577068755aa3c4f89c08a2959587ee, type: 3}
+      propertyPath: vidas.Array.data[0]
+      value: 
+      objectReference: {fileID: 209279643}
+    - target: {fileID: 8454163336996119179, guid: 67577068755aa3c4f89c08a2959587ee, type: 3}
+      propertyPath: vidas.Array.data[1]
+      value: 
+      objectReference: {fileID: 110538373}
+    - target: {fileID: 8454163336996119179, guid: 67577068755aa3c4f89c08a2959587ee, type: 3}
+      propertyPath: vidas.Array.data[2]
+      value: 
+      objectReference: {fileID: 1663035743}
     m_RemovedComponents:
     - {fileID: 6280121626651922082, guid: 67577068755aa3c4f89c08a2959587ee, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 67577068755aa3c4f89c08a2959587ee, type: 3}
